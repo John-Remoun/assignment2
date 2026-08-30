@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Fundamentals of Web"
+  },
+  {
+    "id": 2,
+    "title": ".net "
+  },
+  {
+    "id": 3,
+    "title": "Web Development "
+  },
+  {
+    "id": 4,
+    "title": "Data Science "
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning "
+  }
+]
